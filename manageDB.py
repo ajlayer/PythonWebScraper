@@ -28,7 +28,7 @@ c = conn.cursor()
 #c.execute('DROP TABLE jobs')
 
 # Insert test data into both tables
-#c.execute('''INSERT INTO jobs VALUES (1, 1, 'im gay', 'lebanon, pa', 'mcdonalds', 'july 4th, 1863')''')
+#c.execute('''INSERT INTO jobs VALUES (1, 1, 'AJ ', 'lebanon, pa', 'mcdonalds', 'july 4th, 1863')''')
 #c.execute('''INSERT INTO websites VALUES (1, 'www.ChicFilA.com')''')
 
 
